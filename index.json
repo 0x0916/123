@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "categoryName": "搜索引擎",
+      "bookMarks": [
+        {
+          "name": "百度",
+          "url": "https://www.baidu.com/"
+        },
+        {
+          "name": "Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "必应",
+          "url": "https://www.bing.com/"
+        }
+      ]
+    },
+    {
+      "categoryName": "个人计划",
+      "bookMarks": [
+        {
+          "name": "嘀嗒",
+          "url": "https://dida365.com/"
+        },
+        {
+          "name": "PPT",
+          "url": "https://github.com/hakimel/reveal.js"
+        }
+      ]
+    },
+    {
+      "categoryName": "工作相关",
+      "bookMarks": [
+        {
+          "name": "大象",
+          "url": "https://x.sankuai.com/"
+        },
+        {
+          "name": "工作邮箱",
+          "url": "https://mail.meituan.com"
+        },
+        {
+          "name": "工作WIKI",
+          "url": "https://wiki.sankuai.com/display/DEV/Kernel"
+        },
+        {
+          "name": "预定会议室",
+          "url": "https://wiki.sankuai.com/display/DEV/Kernel"
+        },
+        {
+          "name": "员工门户",
+          "url": "http://123.sankuai.com/"
+        },
+        {
+          "name": "内核归档",
+          "url": "http://10.4.241.89:88/"
+        },
+        {
+          "name": "美团Elixir",
+          "url": "http://10.4.241.89/"
+        },
+        {
+          "name": "Elixir",
+          "url": "http://elixir.free-electrons.com/linux/latest/source"
+        },
+        {
+          "name": "美团kernel",
+          "url": "http://git.sankuai.com/v1/bj/projects/inf/repos/kernel/browse/?at=feature%2Fdev-rh693"
+        },
+        {
+          "name": "kernel",
+          "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"
+        },
+        {
+          "name": "LWN",
+          "url": "https://lwn.net/"
+        },
+        {
+          "name": "TASK",
+          "url": "https://flow.sankuai.com"
+        },
+        {
+          "name": "Bug tracker",
+          "url": "https://wiki.sankuai.com/pages/viewpage.action?pageId=1273435224"
+        }
+      ]
+    }
+  ]
+}
