@@ -31,6 +31,19 @@
       ]
     },
     {
+      "categoryName": "HULK相关",
+      "bookMarks": [
+        {
+          "name": "K8S UI",
+          "url": "http://10.20.8.40:8080/api/v1/namespaces/kube-system/services/kubernetes-dashboard/proxy/#/node?namespace=default"
+        },
+        {
+          "name": "服务树",
+          "url": "https://ops.sankuai.com"
+        }
+      ]
+    },
+    {
       "categoryName": "工作相关",
       "bookMarks": [
         {
