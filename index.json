@@ -40,6 +40,14 @@
         {
           "name": "服务树",
           "url": "https://ops.sankuai.com"
+        },
+        {
+          "name": "线下镜像",
+          "url": "http://plus.sankuai.com/api/hulk/baseimage/offline/grey"
+        },
+        {
+          "name": "线上镜像",
+          "url": "http://plus.sankuai.com/api/hulk/baseimage/online/grey"
         }
       ]
     },
