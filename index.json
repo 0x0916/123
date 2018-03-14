@@ -50,8 +50,16 @@
           "url": "http://plus.sankuai.com/api/hulk/baseimage/online/grey"
         },
         {
+          "name": "登录容器",
+          "url": "https://wiki.sankuai.com/pages/viewpage.action?pageId=1312678348"
+        },
+        {
           "name": "装机步骤",
           "url": "https://wiki.sankuai.com/pages/viewpage.action?pageId=1242057660"
+        },
+        {
+          "name": "去掉Priviledge",
+          "url": "https://wiki.sankuai.com/pages/viewpage.action?pageId=1361993226"
         }
       ]
     },
